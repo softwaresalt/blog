@@ -2,7 +2,8 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+permalink: /about/
+title: About
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Depth articles on data and software engineering with a point of view. I may digress into Agile process, leadership, and other topics.
