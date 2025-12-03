@@ -45,7 +45,7 @@ You can find more detailed guidance as a reviewer on the [CSE Code With Engineer
 
 ## Tooling used
 
-To enforce these rules, a set of tools will be used. Decisions on tools to use can be found in the corresponding [ADR](../adr/022_coding_tools.md).
+To enforce these rules, a set of tools will be used. Decisions on tools to use can be found in the corresponding ADR \..\/adr\/022_coding_tools.md.
 
 ## Coding guidelines
 

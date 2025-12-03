@@ -27,7 +27,7 @@ Ideally, we would have user stories planned out multiple sprints, but this isn't
 
 Try to put your user stories in stack rank order based on the order of importance in which that work needs to be done, such as dependencies.  As a group, we can reorder later based on group priorities.  To stack rank your user story, either drag the item into position or open the context menu for the item by selecting the elipsis next to the title and select "Move to position..."
 
-When creating the user story, be sure to set the Story Size using the [story point guidelines](./2023-08-29-story-points.md).  This is your range-based, approximate sizing for this area of work.
+When creating the user story, be sure to set the Story Size using the [story point guidelines]({% link _posts/2023-08-29-story-points.md %}).  This is your range-based, approximate sizing for this area of work.
 
 ![Backlog Planning](/assets/images/UserStory.Backlog.Planning.png)
 

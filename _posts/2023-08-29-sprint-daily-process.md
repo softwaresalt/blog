@@ -5,7 +5,7 @@ categories: [DevOps]
 tags: [agile, process]
 ---
 
-We use the Azure DevOps Agile toolset to [plan our work](./2023-08-29-sprint-planning.md) for future sprints, to allow product owners and stakeholders to prioritize the work that we will do, and to communicate the work that we are currently doing.
+We use the Azure DevOps Agile toolset to [plan our work]({% link _posts/2023-08-29-sprint-planning.md %}) for future sprints, to allow product owners and stakeholders to prioritize the work that we will do, and to communicate the work that we are currently doing.
 
 Each day marks hours of capacity for each team member to achieve outcomes committed to for the current sprint.
 
