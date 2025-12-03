@@ -50,52 +50,52 @@ Before you create your new project, you'll need to create an inherited process f
 ## Agile Template Customizations
 
 Below is a screenshot of the work items included in the Data Strategy Agile template:
-![Data Strategy Services Agile Template Work Items](/assets/images/WIT_AgileTemplateWorkItems.png)
+![Data Strategy Services Agile Template Work Items](/assets/img/WIT_AgileTemplateWorkItems.png)
 
 ## Action
 
-![Data Strategy Action Work Item Type](/assets/images/WIT_Action.png)
+![Data Strategy Action Work Item Type](/assets/img/WIT_Action.png)
 
 ## Bug
 
-![Data Strategy Bug Work Item Type](/assets/images/WIT_Bug.png)
+![Data Strategy Bug Work Item Type](/assets/img/WIT_Bug.png)
 
 ## Decision
 
-![Data Strategy Decision Work Item Type](/assets/images/WIT_Decision.png)
+![Data Strategy Decision Work Item Type](/assets/img/WIT_Decision.png)
 
 ## Epic
 
-![Data Strategy Epic Work Item Type](/assets/images/WIT_Epic.png)
+![Data Strategy Epic Work Item Type](/assets/img/WIT_Epic.png)
 
 ## Feature
 
-![Data Strategy Feature Work Item Type](/assets/images/WIT_Feature.png)
+![Data Strategy Feature Work Item Type](/assets/img/WIT_Feature.png)
 
 ## Incident
 
-![Data Strategy Incident Work Item Type](/assets/images/WIT_Incident.png)
+![Data Strategy Incident Work Item Type](/assets/img/WIT_Incident.png)
 
 ## Issue
 
-![Data Strategy Issue Work Item Type](/assets/images/WIT_Issue.png)
+![Data Strategy Issue Work Item Type](/assets/img/WIT_Issue.png)
 
 ## Key Result
 
-![Data Strategy Key Result Work Item Type](/assets/images/WIT_KeyResult.png)
+![Data Strategy Key Result Work Item Type](/assets/img/WIT_KeyResult.png)
 
 ## Objective
 
-![Data Strategy Objective Work Item Type](/assets/images/WIT_Objective.png)
+![Data Strategy Objective Work Item Type](/assets/img/WIT_Objective.png)
 
 ## Risk
 
-![Data Strategy Risk Work Item Type](/assets/images/WIT_Risk.png)
+![Data Strategy Risk Work Item Type](/assets/img/WIT_Risk.png)
 
 ## Task
 
-![Data Strategy Task Work Item Type](/assets/images/WIT_Task.png)
+![Data Strategy Task Work Item Type](/assets/img/WIT_Task.png)
 
 ## User Story
 
-![Data Strategy User Story Work Item Type](/assets/images/WIT_UserStory.png)
+![Data Strategy User Story Work Item Type](/assets/img/WIT_UserStory.png)
