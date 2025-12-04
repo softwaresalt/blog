@@ -3,7 +3,6 @@ on:
   push:
     branches:
       - main
-      - master
     paths-ignore:
       - .gitignore
       - README.md
@@ -45,8 +44,14 @@ jobs:
           ruby-version: 3.3
           bundler-cache: true
 
-      - name: Build site
-        run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
+      #      - name: Build site
+      #        run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
+      - name: Build Site
+        run: |
+          bundle exec jekyll b -d "_site" $JEKYLL_ENV
+          # Manually copy the raw markdown folder into the site output
+          mkdir -p _site/assets/md
+          cp -r assets/md/* _site/assets/md/
         env:
           JEKYLL_ENV: "production"
 
